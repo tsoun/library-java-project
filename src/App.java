@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) {
         boolean run = true;
-        System.out.println("Welcome to the University of Porn Central Library!\n");
+        System.out.println("Welcome to the University of [REDACTED] Central Library!\n");
 
         while (run) {
             System.out.println("Press 1 to log in.");
